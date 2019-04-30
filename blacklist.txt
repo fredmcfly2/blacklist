@@ -38,7 +38,8 @@ msn.com
 poiu.icu 	
 quora.com
 reddit-com.poiu.icu
-reddit.com 	
+reddit.com
+rottentomatoes.com
 setupvpn.com
 str.org
 thegospelcoalition.com
