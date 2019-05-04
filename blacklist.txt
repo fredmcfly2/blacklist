@@ -46,6 +46,7 @@ str.org
 thegospelcoalition.com
 valerietarico.com
 wikipedia.org
+# Block Pandora images
 mediaserver-cont-ch1-1-v4v6.pandora.com
 mediaserver-cont-ch1-2-v4v6.pandora.com
 mediaserver-cont-dc6-1-v4v6.pandora.com
@@ -58,4 +59,6 @@ cont-2.p-cdn.us
 cont-3.p-cdn.us
 cont-4.p-cdn.us
 cont-5.p-cdn.us
+# Block Spotify images
 pl.scdn.co
+i.scdn.co
