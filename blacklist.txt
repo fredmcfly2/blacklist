@@ -19,6 +19,8 @@ daretodoubt.org
 desktopclient.net
 exmormon.org 	
 fastsupport.com
+freebooks.com
+openlibrary.org
 gregtrimble.com
 gutenburg.org
 imdb.com
@@ -46,6 +48,17 @@ str.org
 thegospelcoalition.com
 valerietarico.com
 wikipedia.org
+# Book websites
+bookbub.com
+bookrix.com
+librivox.org
+fanfiction.net
+manybooks.net
+openculture.com
+openlibrary.org
+readprint.com
+rivetedlit.com
+wattpad.com
 # Block Pandora images
 mediaserver-cont-ch1-1-v4v6.pandora.com
 mediaserver-cont-ch1-2-v4v6.pandora.com
