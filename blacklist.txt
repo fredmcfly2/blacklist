@@ -75,3 +75,4 @@ cont-5.p-cdn.us
 # Block Spotify images
 pl.scdn.co
 i.scdn.co
+mosaic.scdn.co
