@@ -8,6 +8,7 @@ Ru-clip.net
 archive.org
 boost-turbo-protector.bid
 discourse.org
+discordapp.com
 cesletter.org
 cheezburger.com
 clktrckrsail.com
@@ -52,13 +53,17 @@ wikipedia.org
 # Book websites
 bookbub.com
 bookrix.com
+books.google.com
 librivox.org
 fanfiction.net
+fantasticfiction.com
+goodreads.com
 manybooks.net
 openculture.com
 openlibrary.org
 readprint.com
 rivetedlit.com
+twitch.tv
 wattpad.com
 # Block Pandora images
 mediaserver-cont-ch1-1-v4v6.pandora.com
