@@ -46,6 +46,7 @@ reddit-com.poiu.icu
 reddit.com
 rottentomatoes.com
 setupvpn.com
+spotify.com
 str.org
 techsuperb.biz
 thegospelcoalition.com
