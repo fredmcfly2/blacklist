@@ -2,8 +2,12 @@
 4mormon.org
 agreensdistra.info
 aliexpress.com
+allwallpaper.in
+anoncraft.com
 archive.org
+artstation.com
 boost-turbo-protector.bid
+chasejarvis.com
 cesletter.org
 cheezburger.com
 clktrckrsail.com
@@ -11,6 +15,7 @@ coldcasechristianity.com
 concordance.com
 couragechristiansunited.org 	
 cpmstar.com 	
+dailystar.co.uk
 daretodoubt.org
 desktopclient.net
 discourse.org
@@ -19,9 +24,13 @@ drawception.com
 exmormon.org 	
 fastsupport.com
 freebooks.com
+giantbomb.com
 gregtrimble.com
 groupme.com
 gutenburg.org
+hdwallsbox.com
+hdwallpaperim.com
+hdxwallpaper.com
 imdb.com
 instagram.com
 iogames.space
@@ -30,6 +39,8 @@ justrichest.com
 kmusic.site
 kids-in-mind.org
 kik.com
+laweekly.com
+last.fm
 lds-mormon.org 	
 letterformywife.com
 list25.com
@@ -53,6 +64,7 @@ reddit.com
 reddup.co
 rottentomatoes.com
 rss-equalizer.info
+setaswall.com
 snapchat.com
 spotify.com
 steam-chat.com
@@ -66,10 +78,19 @@ tumblr.com
 twitter.com
 txtnews.online
 valerietarico.com
+vgamezone.com
+wallhere.com
+wallpaperaccess.com
+wallpapercave.com
+wallpaperplay.com
+wallpapersafari.com
+wallpaperup.com
+wallup.net
 wikipedia.org
 whatsapp.com
+wigflip.com
 xkcd.com
-# Youtube alternate sites
+# Youtube like sites
 2xpro.net
 99tune.us
 Ai-tube.com
@@ -83,12 +104,14 @@ ghostzero.tv
 godialy.com
 i1os.com
 idcinema.net
+imgur.com
 kidsclip.net
 mobikach.ru
 myplay.video
 newlifetv.info
 nicktube.com
 okclips.net
+pixelstalk.net
 ruclip.com
 ruclip.mobi
 ru-clip.net
