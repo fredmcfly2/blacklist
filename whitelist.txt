@@ -1,0 +1,57 @@
+s3.amazonaws.com
+s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+.github.com
+.githubusercontent.com 
+github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+.apple.com 
+.sourceforge.net
+.fls-na.amazon.com # alexa
+.control.kochava.com # alexa 2
+.device-metrics-us-2.amazon.com # alexa 3
+.secure-gl.imrworldwide.com # amazon app 3
+.pixel.adsafeprotected.com # amazon app 4
+.bs.serving-sys.com # amazon app 5
+google.com
+www.google.com
+youtube.com
+www.youtube.com
+youtube-ui.l.google.com # CNAME for (youtube.com)
+stackoverflow.com
+www.stackoverflow.com
+dropbox.com
+www.dropbox.com
+www.dropbox-dns.com # CNAME for (dropbox.com)
+.trimble.com
+.trimble.tools
+.bitbucket.com
+.github.com
+.claas.com
+vpn.claas.com
+usd-vpdn-1.trimble.com
+.cbs.com
+.gap.com
+ebay.com
+staticiv.com
+google.com
+ebaystores.com
+.microsoft.com
+.lds.org
+.mormon.org
+.familysearch.org
+.bankofamerica.com
+microchip.com
+mail.google.com
+.churchofjesuschrist.org
+doubleclick.net
+dilbert.com
+gocomics.com
+phdcomics.com
+docs.google.com
+.lths.org
+.lds.org
+.turnitin.com
+.kahoot.com
+.powerschool.com
+.pearsonrealize.com
+.edpuzzle.com
+.mobilecsp.org
