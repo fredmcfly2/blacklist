@@ -55,3 +55,4 @@ docs.google.com
 .pearsonrealize.com
 .edpuzzle.com
 .mobilecsp.org
+.clearplay.com
