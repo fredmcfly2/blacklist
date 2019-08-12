@@ -78,6 +78,7 @@ lds-mormon.org
 letterformywife.com
 list25.com
 listland.com
+listennotes.com
 me.me
 medium.com
 milk.com
@@ -139,6 +140,7 @@ wallpapersite.com
 wallup.net
 wikimedia.org
 wikipedia.org
+wikizero.com
 whatsapp.com
 wigflip.com
 wowhead.com
@@ -243,6 +245,25 @@ zenguard.biz
 zenguard.org
 zenmate.io
 zenmate.com
+# Anti-mormon
+116pages.com
+associationmormonletters.org
+athoughtfulfaith.org
+exploringmormonism.com
+infymus.com
+ldsfreedomforum.com
+lyingforthelord.com
+mormoncurtain.com
+mormondialogue.org
+mormondiscussionpodcast.org
+mormonheretic.org
+mormonthink.com
+nowscape.com
+radiofreemormon.org
+raiseyourmind.com
+salamandersociety.com
+utlm.org
+wheatandtares.org
 # Book websites
 bookbub.com
 bookrix.com
