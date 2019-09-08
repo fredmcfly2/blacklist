@@ -1,5 +1,3 @@
-2think.org
-4mormon.org
 agar.io
 agreensdistra.info
 aliexpress.com
@@ -28,6 +26,7 @@ couragechristiansunited.org
 cpmstar.com 	
 dailystar.co.uk
 dailymail.co.uk
+dai-syuan.com
 daretodoubt.org
 desktopclient.net
 destopwalls.net
@@ -45,7 +44,6 @@ discordsl.com
 drawception.com
 esmemes.com
 esquire.com
-exmormon.org
 fastsupport.com
 flipwallpapers.com
 freebooks.com
@@ -83,8 +81,6 @@ knowyourmeme.com
 kym-cdn.com
 laweekly.com
 last.fm
-lds-mormon.org 	
-letterformywife.com
 list25.com
 listland.com
 listennotes.com
@@ -96,8 +92,6 @@ milk.com
 mirror.co.uk
 moomoo.io
 moomooio.org
-mormonstories.org
-mormonthink.org
 mp3indir.pw
 mrm.org
 msn.com
@@ -135,7 +129,6 @@ techsuperb.biz
 teenvogue.com
 tokkoro.com
 thedailybeast.com
-thegospelcoalition.com
 theonion.com
 theoatmeal.com
 thetoptens.com
@@ -266,23 +259,41 @@ zenmate.io
 zenmate.com
 # Anti-mormon
 116pages.com
+2think.org
+4mormon.org
 associationmormonletters.org
 athoughtfulfaith.org
+
+exmormon.org
 exploringmormonism.com
 infymus.com
+finlayson-fife.com
+letterformywife.com
+lds-mormon.org
+lds-mormon.com
 ldsfreedomforum.com
+luxlux4u.com
 lyingforthelord.com
 mormoncurtain.com
 mormondialogue.org
+mormondiscussions.com
 mormondiscussionpodcast.org
 mormonheretic.org
+mormonmatters.org
 mormonthink.com
+mormonstories.org
+mormonthink.org
+mormonundies.com
 nowscape.com
 radiofreemormon.org
 raiseyourmind.com
+thegospelcoalition.com
 salamandersociety.com
+shunn.net
+texags.com
 utlm.org
 wheatandtares.org
+zsofiacsendes.com
 # Book websites
 bookbub.com
 bookrix.com
