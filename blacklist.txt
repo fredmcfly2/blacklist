@@ -45,6 +45,7 @@ drawception.com
 esmemes.com
 esquire.com
 fastsupport.com
+finlayson-fife.com
 flipwallpapers.com
 freebooks.com
 free-audio-editor.com
@@ -250,6 +251,7 @@ tuxler.com
 unlimitedvpn.net
 vpn.ac
 vpnuniversity.com
+vyprvpn.com
 windscribe.com
 xvpn.io
 x-vpn.io
@@ -263,10 +265,11 @@ zenmate.com
 4mormon.org
 associationmormonletters.org
 athoughtfulfaith.org
+avclub.com
+deadspin.com
 exmormon.org
 exploringmormonism.com
 infymus.com
-finlayson-fife.com
 letterformywife.com
 lds-mormon.org
 lds-mormon.com
@@ -291,8 +294,10 @@ thegospelcoalition.com
 salamandersociety.com
 shunn.net
 texags.com
+theroot.com
 thelordsuniversity.wordpress.com
 utlm.org
+weebly.com
 wheatandtares.org
 zsofiacsendes.com
 # Book websites
