@@ -269,6 +269,7 @@ kproxy.com
 myiphider.com
 northghost.com
 openvpn.com
+p-cdn.com
 privateinternetaccess.com
 pron-vpn.info
 proxy-spider.com
@@ -279,6 +280,7 @@ safervpn.com
 setupvpn.com
 skyvpn.us
 surfshark.com
+touchvpn.net
 thevpncompany.net
 tunnelbear.com
 tunnello.com
