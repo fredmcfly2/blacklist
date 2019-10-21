@@ -20,6 +20,7 @@ boost-turbo-protector.bid
 boardpanda.com
 boredpanda.com
 bustyfilms.com
+buzzfeed.com
 chasejarvis.com
 cesletter.org
 cheezburger.com
@@ -56,6 +57,7 @@ flipwallpapers.com
 freebooks.com
 free-audio-editor.com
 foxnews.com
+funnyjunk.com
 gamebanana.com
 giantbomb.com
 gettyimages.com
@@ -94,10 +96,14 @@ last.fm
 list25.com
 listland.com
 listennotes.com
+mandatory.com
 marcofolio.net
 mashable.com
 me.me
 meme.xyz
+memecenter.com
+memedroid.com
+mememaker.net
 medium.com
 milk.com
 mirror.co.uk
@@ -115,6 +121,7 @@ perfect-privacy.com
 pinterest.com
 piximus.net
 play.google.com
+pmslweb.com
 podomatic.com
 poiu.icu
 popgreatfinishappclicks.icu
@@ -122,6 +129,7 @@ postfun.com
 postls.com
 proudflex.org
 quora.com
+quotationsquotes.com
 ranker.com
 reparrishcomics.com
 reddit-com.poiu.icu
