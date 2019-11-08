@@ -137,6 +137,7 @@ reparrishcomics.com
 reddit-com.poiu.icu
 reddit.com
 reddup.co
+reimageplus.com
 rottentomatoes.com
 rss-equalizer.info
 scp-wiki.net
@@ -436,3 +437,5 @@ content-images.p-cdn.com
 pl.scdn.co
 i.scdn.co
 mosaic.scdn.co
+# Block Google Play images
+lh3.googleusercontent.com
