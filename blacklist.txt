@@ -437,6 +437,7 @@ mediaserver-cont-sv5-2-v4v6.pandora.com
 mediaserver-cont-sv5-3-v4v6.pandora.com
 mediaserver-cont-usc-mp1-1-v4v6.pandora.com
 mediaserver-cont-usc-mp1-2-v4v6.pandora.com
+cont.p-cdn.us
 cont-1.p-cdn.us
 cont-2.p-cdn.us
 cont-3.p-cdn.us
