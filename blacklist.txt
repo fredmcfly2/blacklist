@@ -318,15 +318,18 @@ zenmate.com
 aaronshaf.wordpress.com
 accessnow.org
 angelsonfire.org
+arcapologetics.org
 associationmormonletters.org
 athoughtfulfaith.org
 atlasobscura.com
 avclub.com
 beggarsbread.org
+bible.ca
 bycommonconsent.com
 carm.org
 catholictruthblog.com
 catholictruthscotland.com
+challengemin.org
 codesandbox.io
 courageouschristiansunited.org
 ctsbooks.org
@@ -339,6 +342,7 @@ evidenceministries.org
 exmormon.org
 exploringmormonism.com
 fullerconsideration.com
+genecurl.com
 hereiblog.com
 hotm.com
 hotmtv.com
@@ -348,6 +352,8 @@ ignatius.com
 infymus.com
 irr.org
 letterformywife.com
+ldsanswers.org
+ldslearning.org
 lds-mormon.org
 lds-mormon.com
 ldsfreedomforum.com
@@ -362,9 +368,11 @@ mormoncurtain.com
 mormondialogue.org
 mormondiscussions.com
 mormondiscussionpodcast.org
+mormonhandbook.com
 mormonheretic.org
 mormoninfo.org
 mormoninformant.com
+mormonismi.net
 mormonmatters.org
 mormonleaks.io
 mormonthink.com
@@ -378,6 +386,7 @@ nowscape.com
 observablehq.com
 olivercowdery.com
 onlinediscernmenttoday.wordpress.com
+padfield.com
 painute.com
 podbean.com
 progressiveexmormon.wordpress.com
