@@ -328,6 +328,7 @@ beggarsbread.org
 bible.ca
 bycommonconsent.com
 carm.org
+catholic.com
 catholictruthblog.com
 catholictruthscotland.com
 challengemin.org
@@ -387,13 +388,16 @@ nowscape.com
 observablehq.com
 olivercowdery.com
 onlinediscernmenttoday.wordpress.com
+oneplace.com
 padfield.com
 painute.com
+patheos.com
 podbean.com
 progressiveexmormon.wordpress.com
 radiofreemormon.org
 raiseyourmind.com
 righteousdominion.org
+rmonuniversalism.com
 thegospelcoalition.com
 sacbee.com
 salamandersociety.com
@@ -403,10 +407,12 @@ scripturalmormonism.blogspot.com
 shafovaloff.com
 shunn.net
 sidneyrigdon.com
+staylds.com
 solomonspaulding.com
 steemit.com
 texags.com
 thechristiangod.com
+thegospelcoalition.org
 thisliminalstate.com
 themissionutah.com
 theroot.com
@@ -420,6 +426,7 @@ weirdmormonshoot.com%
 wretched.org
 ytmommadrama.com
 zedori.com
+zelphontheshelf.com
 zsofiacsendes.com
 # Book websites
 bookbub.com
