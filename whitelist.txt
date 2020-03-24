@@ -1,6 +1,14 @@
 216.239.38.120 # Google
 216.239.38.119
 74.125.250.0/24 # Google auido and video
+172.217.9.238 # ga34s11-in-f14.1e100.net
+172.217.5.14 # lga15s49-in-f14.1e100.net
+172.217.9.67 # ord38s09-in-f3.1e100.net
+52.32.207.20 # Amazon AWS servers
+52.10.50.127
+54.148.66.97
+54.149.196.236
+52.26.7.15 
 0.client-channel.google.com
 1.client-channel.google.com
 2.client-channel.google.com
