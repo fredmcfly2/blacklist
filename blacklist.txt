@@ -270,6 +270,7 @@ fastestvpnguide.com
 freevpn.zone
 freevpn.pw
 getvpn.pro
+getflix.com.au
 gomcomm.com
 grabaproxy.com
 hide.me
@@ -295,6 +296,7 @@ ppvpn.net
 purevpn.com
 rusvpn.com
 safervpn.com
+serverlocation.co
 setupvpn.com
 skyvpn.us
 surfshark.com
