@@ -302,6 +302,7 @@ serverlocation.co
 setupvpn.com
 skyvpn.us
 surfshark.com
+surfshark.net
 touchvpn.net
 thevpncompany.net
 tunnelbear.com
