@@ -42,7 +42,7 @@ disboard.org
 discord.center
 discordbee.com
 discourse.org
-#discordapp.com
+discordapp.com
 discordbots.org
 discordservers.com
 discordservers.me
