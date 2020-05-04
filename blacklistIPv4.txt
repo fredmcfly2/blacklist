@@ -14,3 +14,29 @@
 99.181.88.0/21 	#Twitch Interactive Inc. 	2,048
 99.181.96.0/19  #Twitch
 151.101.186.167 #Twitch
+168.1.79.229 # GitFlix
+54.252.183.4 # GitFlix
+54.252.183.5 # GitFlix
+202.59.96.140 # GitFlix
+54.94.175.250 # GitFlix
+169.53.182.124 # GitFlix
+82.103.129.240 # GitFlix
+54.93.169.181 # GitFlix
+212.71.249.225 # GitFlix
+119.9.73.44 # GitFlix
+103.250.185.113 # GitFlix
+54.72.70.84 # GitFlix
+95.141.39.238 # GitFlix
+172.104.90.123 # GitFlix
+103.241.150.100 # GitFlix
+46.166.189.67 # GitFlix
+120.138.27.84 # GitFlix
+120.138.22.174 # GitFlix
+54.251.190.247 # GitFlix
+197.85.191.215 # GitFlix
+185.93.3.168 # GitFlix
+46.246.29.68 # GitFlix
+188.132.234.171 # GitFlix
+54.164.176.2 # GitFlix
+169.55.51.86 # GitFlix
+54.187.61.200 # GitFlix
