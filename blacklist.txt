@@ -144,6 +144,7 @@ reddit.com
 reddup.co
 reimageplus.com
 rottentomatoes.com
+runev.dk
 rss-equalizer.info
 scp-wiki.net
 setaswall.com
@@ -453,6 +454,7 @@ fantasticfiction.com
 goodreads.com
 manybooks.net
 openculture.com
+opengameart.org
 openlibrary.org
 readprint.com
 rivetedlit.com
