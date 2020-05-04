@@ -217,9 +217,11 @@ ghostzero.tv
 godialy.com
 i1os.com
 idcinema.net
-invidio.us
 imgur.com
+invidio.us
+iptvz.co.uk
 independent.co.uk
+justin.tv
 kidsclip.net
 memecenter.com
 mobikach.ru
@@ -238,11 +240,14 @@ solarconflict.com
 staryoutube.com
 stuff.tv
 tvhd.wiki
+twitch.tv
+twitch.com
 vaivideo.site
 vimeo.com
 viyoutube.co
 viveos.net
 vogue.com
+xarth.com
 yt.ax
 yiflix.com
 youtubeizleindir.org
@@ -458,7 +463,6 @@ opengameart.org
 openlibrary.org
 readprint.com
 rivetedlit.com
-twitch.tv
 wattpad.com
 wikibooks.org
 # Block Pandora images
