@@ -202,3 +202,19 @@ youtube-nocookie.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
 ytimg.com
+# LogMeIn
+assist.com
+citrixonline.com
+citrixonlinecdn.com
+go2assist.me
+gofastchat.com
+gotoassist.com
+gotoassist.me
+gotomeet.me
+gotomeeting.com
+gotomypc.com
+gototraining.com
+gotowebinar.com
+joingotomeeting.com
+jointraining.com
+joinwebinar.com
