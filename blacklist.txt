@@ -266,6 +266,8 @@ viyoutube.com
 987607.biz
 airvpn.com
 allheartnews.com # ExpressVPN
+anchorfree.com
+anchorfree.net
 authentic8.com
 azino-vpn.club
 b-7.gomcomm.com
@@ -291,6 +293,7 @@ grabaproxy.com
 hide.me
 hola.org
 hotspotshield.com
+hotspotshield.net
 hoxx.com
 hub-vpn.club
 ibvpn.com
@@ -302,6 +305,7 @@ kproxy.com
 myiphider.com
 northghost.com
 openvpn.com
+openvpn.net
 p-cdn.com
 phantompeer.com
 privateinternetaccess.com
