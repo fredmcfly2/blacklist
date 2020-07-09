@@ -14,6 +14,16 @@
 52.252.248.163 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 52.94.227.146 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 44.227.11.155 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
+146.112.61.106 # "ASN":32475, "ISP":"SingleHop LLC", "host":"apis-chi-6.expressvpn.com"
+204.11.56.48 # "ASN":53889, "host":"street.allheartnews.com"
+92.118.13.11 # , "ISP":"web2objects GmbH", "host":"92.118.13.11"
+205.185.216.18 # "ASN":20446, "ISP":"Highwinds Network Group", "host":"205.185.216.18"
+45.41.134.192 # "ASN":35913, "ISP":"Web2Objects LLC", "host":"45.41.134.192"
+8.249.111.252 # "ASN":3356, "ISP":"Level 3 Communications", "host":"8.249.111.252"
+162.254.192.48 # "ASN":32590, "ISP":"Valve Corporation", "host":"162.254.192.48"
+23.62.227.106 # "ASN":33491, "ISP":"Akamai Technologies", "host":"a23-62-227-106.deploy.static.akamaitechnologies.com"
+172.106.22.4 # "ASN":40676, "ISP":"Psychz Networks", "host":"unassigned.mpgs.systems"
+205.185.216.19 # "ASN":20446, "ISP":"Highwinds Network Group2", "host":"205.185.216.18"
 169.55.51.86
 54.187.61.200
 54.164.176.2
