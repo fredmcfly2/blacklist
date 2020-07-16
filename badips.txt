@@ -77,3 +77,18 @@
 45.61.104.0/21 #	Web2Objects LLC
 45.61.88.0/21 #	Web2Objects LLC
 64.57.136.0/21 #	Web2Objects LLC 
+45.56.142.242 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+23.35.69.27 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+140.82.113.26 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+52.40.48.97 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+54.239.18.66 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+40.90.10.66 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+52.170.57.27 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+173.194.196.189 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+216.58.192.234 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+52.94.235.50 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+104.208.219.197 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+23.102.152.32 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+54.183.142.105 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+52.216.204.251 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+142.250.1.188 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
