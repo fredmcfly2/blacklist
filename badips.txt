@@ -92,3 +92,15 @@
 54.183.142.105 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
 52.216.204.251 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
 142.250.1.188 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+151.139.128.0/20 #	StackPath, LLC.
+151.139.128.0/24 #	StackPath, LLC.
+151.139.130.0/24 #	StackPath, LLC.
+151.139.254.0/24 #	StackPath, LLC.
+151.139.255.0/24 #	StackPath, LLC.
+205.185.208.0/24 #	Highwinds Network Group, Inc.
+205.185.216.0/24 #	Highwinds Network Group, Inc.
+209.197.2.0/24 #	Highwinds Network Group, Inc.
+209.197.3.0/24 #	Highwinds Network Group, Inc.
+69.16.174.0/24 #	Highwinds Network Group, Inc.
+69.16.175.0/24 #	Highwinds Network Group, Inc. 
+173.239.199.62
