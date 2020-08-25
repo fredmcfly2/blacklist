@@ -23,21 +23,16 @@
 204.11.56.48 # "ASN":53889, "host":"street.allheartnews.com"
 45.56.144.0/23 #	Ali Shareef
 23.62.227.106 # "ASN":33491, "ISP":"Akamai Technologies", "host":"a23-62-227-106.deploy.static.akamaitechnologies.com"
-104.208.219.197 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-140.82.113.26 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-142.250.1.188 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-216.58.192.234 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-23.102.152.32 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-23.35.69.27 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-40.90.10.66 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-45.41.134.192 # "ASN":35913, "ISP":"Web2Objects LLC", "host":"45.41.134.192"
-45.56.142.242 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-52.170.57.27 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-52.216.204.251 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-52.40.48.97 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-52.94.235.50 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-54.239.18.66 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
-54.183.142.105 # "ASN":32181, "ISP":"Web2Objects LLC", "host":"45.56.142.242"
+140.82.113.26 # High risk but belongs to GitHub, Inc.
+
+
+40.90.10.66 # High risk but belongs to Microsoft Azure
+45.41.134.192 # AS35913 DediPath
+45.56.142.242 #  	AS32181 GigeNET
+
+
+
+
 142.147.128.0/17 #	Web2Objects LLC
 104.200.78.0/24 #	Web2Objects LLC
 104.200.79.0/24 #	Web2Objects LLC
