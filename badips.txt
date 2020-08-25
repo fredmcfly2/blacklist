@@ -1,10 +1,9 @@
-13.107.4.52 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 45.56.142.158 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 209.206.41.43 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 34.217.183.44 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 216.58.192.206 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 198.38.109.153 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-52.114.128.43 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
+52.114.128.43 #  IP Reported as Blacklisted 
 23.192.100.10 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 35.186.224.25 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
 40.90.10.180 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
