@@ -111,7 +111,6 @@ googleusercontent.com
 googlevideo.com
 gstatic.com
 gvt1.com
-hwcdn.net
 indexww.com
 ipinfo.io
 kahoot.com
