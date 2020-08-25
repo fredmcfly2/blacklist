@@ -1,16 +1,9 @@
-23.192.100.10 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-52.252.248.163 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-45.56.142.158 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-198.38.109.153 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-209.206.41.43 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-216.58.192.206 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-34.193.52.228 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-34.217.183.44 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-35.186.224.25 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-40.90.10.180 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-44.227.11.155 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-52.94.227.146 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
-173.230.131.250 # "ASN":8068, "ISP":"Microsoft Corporation", "host":"13.107.4.52"
+
+45.56.142.158 # Web2Objects LLC
+216.58.192.206 # IP Reported as blacklisted but belongs to Google LLC
+35.186.224.25 # IP Reported as blacklisted but belongs to Google LLC
+40.90.10.180 # Reported 100 high risk but belongs to Microsoft
+173.230.131.250 #  	AS63949 Linode, LLC
 104.143.83.0/24 #	SecurityTrails
 104.200.68.0/22 #	LeapSwitch Networks Pvt Ltd
 104.200.76.0/23 #	Increhost Internet Solutions 
