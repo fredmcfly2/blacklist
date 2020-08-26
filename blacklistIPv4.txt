@@ -1,8 +1,5 @@
 
 45.56.142.158 # Web2Objects LLC
-216.58.192.206 # IP Reported as blacklisted but belongs to Google LLC
-35.186.224.25 # IP Reported as blacklisted but belongs to Google LLC
-#40.90.10.180 # Reported 100 high risk but belongs to Microsoft
 173.230.131.250 #  	AS63949 Linode, LLC
 104.143.83.0/24 #	SecurityTrails
 104.200.68.0/22 #	LeapSwitch Networks Pvt Ltd
@@ -22,9 +19,6 @@
 197.85.191.215 # ORG-DDLD1-AFRINIC
 204.11.56.48 # "ASN":53889, "host":"street.allheartnews.com"
 45.56.144.0/23 #	Ali Shareef
-23.62.227.106 # "ASN":33491, "ISP":"Akamai Technologies", "host":"a23-62-227-106.deploy.static.akamaitechnologies.com"
-140.82.113.26 # High risk but belongs to GitHub, Inc.
-40.90.10.66 # High risk but belongs to Microsoft Azure
 45.41.134.192 # AS35913 DediPath
 45.56.142.242 #  	AS32181 GigeNET
 142.147.128.0/17 #	Web2Objects LLC
