@@ -198,7 +198,7 @@ wallpapersafari.com
 wallpaperup.com
 wallpapersite.com
 wallup.net
-wikimedia.org
+#wikimedia.org # Use in E2Guardian and block only part of it
 wikipedia.org
 wikizero.com
 whatsapp.com
