@@ -39,7 +39,9 @@
 .secure-gl.imrworldwide.com # amazon app 3
 .sourceforge.net
 .wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+aa.google.com
 accounts.google.com
+addons.gsuite.google.com
 adobe.com
 amazon-adsystem.com
 apis.google.com
@@ -49,8 +51,10 @@ bankofamerica.com
 bitbucket.com
 bs.serving-sys.com # amazon app 5
 c.docs.google.com
+calendar.google.com
 cbs.com
 chat.google.com
+chrome.google.com
 churchofjesuschrist.org
 claas.com
 clearplay.com
@@ -110,10 +114,13 @@ googlesyndication.com
 googleusercontent.com
 googlevideo.com
 gstatic.com
+gsuite.google.com
 gvt1.com
 indexww.com
 ipinfo.io
 kahoot.com
+keep.google.com
+krahsc.google.com
 lds.org
 lh0.google.com
 lh1.google.com
@@ -136,6 +143,7 @@ mormon.org
 mp.microsoft.com
 nexac.com
 ocsp.digicert.com
+ogs.google.com
 pbs.twimg.com # twitter images
 pearsonrealize.com
 phdcomics.com
@@ -152,9 +160,11 @@ sheets.google.com
 slides.google.com
 sourceforge.net
 ssl.google-analytics.com
+ssl.gstatic.com
 stackoverflow.com
 staticiv.com
 stun.l.google.com
+support.google.com
 takeout.google.com
 talk.google.com
 talkgadget.google.com
