@@ -96,3 +96,4 @@
 151.101.186.167 #Twitch
 54.72.70.84
 52.114.128.43 #  IP Reported as Blacklisted 
+103.209.252.67 # Highwinds Network Group
