@@ -199,14 +199,15 @@ wallpaperup.com
 wallpapersite.com
 wallup.net
 #wikimedia.org # Use in E2Guardian and block only part of it
-wikipedia.org
+wikipedia.org # Use in E2Guardian and block only part of it
 wikizero.com
 whatsapp.com
 wigflip.com
 wowhead.com
 xkcd.com
 zerochan.net
-# Youtube like sites
+thecut.com
+Youtube like sites
 2xpro.net
 99tune.us
 Ai-tube.com
