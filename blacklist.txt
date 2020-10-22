@@ -499,5 +499,3 @@ i.scdn.co
 mosaic.scdn.co
 # Block Google Play images
 lh3.googleusercontent.com
-# Block Amazon Music images
-m.media-amazon.com
