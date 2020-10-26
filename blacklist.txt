@@ -207,7 +207,9 @@ wowhead.com
 xkcd.com
 zerochan.net
 thecut.com
+###########################################
 # Youtube like sites
+###########################################
 2xpro.net
 99tune.us
 Ai-tube.com
@@ -216,6 +218,7 @@ ch-ne.org
 creektube.net
 Curvetube.com
 cyberspaceandtime.com
+dailymotion.com
 faceclips.net
 funny-video-online.com
 ghostzero.tv
@@ -229,6 +232,7 @@ independent.co.uk
 justin.tv
 kidsclip.net
 memecenter.com
+metacafe.com
 mobikach.ru
 myplay.video
 newlifetv.info
@@ -249,6 +253,7 @@ twitch.tv
 twitch.com
 vaivideo.site
 vimeo.com
+vine.co
 viyoutube.co
 viveos.net
 vogue.com
@@ -259,7 +264,9 @@ youtubeizleindir.org
 you2repeat.com
 videoruclip.com
 viyoutube.com
+###########################################
 # VPN websites
+###########################################
 207.246.69.111
 45.63.26.42
 45.76.180.95
@@ -339,7 +346,9 @@ zenguard.biz
 zenguard.org
 zenmate.io
 zenmate.com
+###########################################
 # Anti-mormon
+###########################################
 116pages.com
 2think.org
 4mormon.org
@@ -460,7 +469,9 @@ ytmommadrama.com
 zedori.com
 zelphontheshelf.com
 zsofiacsendes.com
+###########################################
 # Book websites
+###########################################
 bookbub.com
 bookrix.com
 books.google.com
@@ -476,7 +487,9 @@ readprint.com
 rivetedlit.com
 wattpad.com
 wikibooks.org
+###########################################
 # Block Pandora images
+###########################################
 mediaserver-cont-ch1-1-v4v6.pandora.com
 mediaserver-cont-ch1-2-v4v6.pandora.com
 mediaserver-cont-dc6-1-v4v6.pandora.com
@@ -493,9 +506,13 @@ cont-3.p-cdn.us
 cont-4.p-cdn.us
 cont-5.p-cdn.us
 content-images.p-cdn.com
+###########################################
 # Block Spotify images
+###########################################
 pl.scdn.co
 i.scdn.co
 mosaic.scdn.co
+###########################################
 # Block Google Play images
+###########################################
 lh3.googleusercontent.com
