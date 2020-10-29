@@ -41,6 +41,7 @@ destopwalls.net
 deezer.com
 disboard.org
 discord.center
+discord.com
 discordbee.com
 discourse.org
 discordapp.com
