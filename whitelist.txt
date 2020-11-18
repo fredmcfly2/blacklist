@@ -1,24 +1,11 @@
 172.217.5.14 # lga15s49-in-f14.1e100.net
 172.217.9.238 # ga34s11-in-f14.1e100.net
 172.217.9.67 # ord38s09-in-f3.1e100.net
-216.239.38.119
-216.239.38.120 # Google
 52.10.50.127
 52.26.7.15 
 52.32.207.20 # Amazon AWS servers
 54.148.66.97
 54.149.196.236
-74.125.250.0/24 # Google auido and video
-0.client-channel.google.com
-1.client-channel.google.com
-2.client-channel.google.com
-3.client-channel.google.com
-4.client-channel.google.com
-5.client-channel.google.com
-6.client-channel.google.com
-7.client-channel.google.com
-8.client-channel.google.com
-9.client-channel.google.com
 .adsafeprotected.com # amazon app 6
 .amazon-adsystem.com # amazon app ads
 .anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
@@ -39,36 +26,15 @@
 .secure-gl.imrworldwide.com # amazon app 3
 .sourceforge.net
 .wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
-aa.google.com
-accounts.google.com
-addons.gsuite.google.com
-adobe.com
-amazon-adsystem.com
-apis.google.com
 apple.com
 audible.com
 bankofamerica.com
 bitbucket.com
 bs.serving-sys.com # amazon app 5
-c.docs.google.com
-calendar.google.com
 cbs.com
-chat.google.com
-chrome.google.com
 churchofjesuschrist.org
 claas.com
 clearplay.com
-client-channel.google.com
-clients0.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-clients7.google.com
-clients8.google.com
-clients9.google.com
 control.kochava.com
 control.kochava.com # alexa 2
 craigslist.com
@@ -80,11 +46,8 @@ cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 device-metrics-us-2.amazon.com # alexa 3
 dilbert.com
 dixie.edu
-docs.google.com
 doubleclick.net
-drive.google.com
 dropbox.com
-dynamite.sandbox.google.com
 ebay.com
 ebaystores.com
 edgekey.net
@@ -95,57 +58,18 @@ financialaid.wpdev.dixie.edu
 fls-na.amazon.com # alexa
 fs.microsoft.com
 gap.com
-gg.google.com
 ggpht.com
 gigya.com
 github.com
 github.map.fastly.net # CNAME for (raw.githubusercontent.com)
-githubusercontent.com 
-gmail.com
-google-analytics.com
-google-opensource.com
-google.com
-googleadservices.com
-googleapis.com
-googledrive.com
-googleenterprise.com
-googleonlinesecurity.com
-googlesyndication.com
-googleusercontent.com
-googlevideo.com
-gstatic.com
-gsuite.google.com
+githubusercontent.com
 gvt1.com
 indexww.com
 ipinfo.io
 kahoot.com
-keep.google.com
-krahsc.google.com
 lds.org
-lh0.google.com
-lh1.google.com
-lh2.google.com
-lh3.google.com
-lh4.google.com
-lh5.google.com
-lh6.google.com
-lh7.google.com
-lh8.google.com
-lh9.google.com
-lh0.googleusercontent.com
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
-lh7.googleusercontent.com
-lh8.googleusercontent.com
-lh9.googleusercontent.com
 lifecare-news.com
 lths.org
-mail.google.com
-meet.google.com
 microchip.com
 mobilecsp.org
 moogle.lths.org
@@ -153,37 +77,23 @@ mormon.org
 mp.microsoft.com
 nexac.com
 ocsp.digicert.com
-ogs.google.com
 pbs.twimg.com # twitter images
 pearsonrealize.com
 phdcomics.com
 pixel.adsafeprotected.com # amazon app 4
-play.googleapis.com
-plus.google.com
 powerschool.com
 qustodio.com
 s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
 s3.amazonaws.com
-script.google.com
 secure-gl.imrworldwide.com # amazon app 3
-sheets.google.com
-slides.google.com
 sourceforge.net
-ssl.google-analytics.com
-ssl.gstatic.com
 stackoverflow.com
 staticiv.com
-stun.l.google.com
-support.google.com
-takeout.google.com
-talk.google.com
-talkgadget.google.com
 tiqcdn.com
 trimble.com
 trimble.tools
 turnitin.com
 usd-vpdn-1.trimble.com
-video.google.com
 visualstudio.com
 vpn.claas.com
 wac.phicdn.net
@@ -191,7 +101,6 @@ weather.com
 wfxtriggers.com
 www.dropbox-dns.com # CNAME for (dropbox.com)
 www.dropbox.com
-www.google.com
 www.pbs.twimg.com # twitter images
 www.stackoverflow.com
 www.youtube.com
@@ -199,7 +108,9 @@ youtube-nocookie.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
 youtube.com
 ytimg.com
+###################################
 # Microsoft
+###################################
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -286,7 +197,10 @@ wustat.windows.com
 live.com
 xbox.com
 xboxlive.com
+
+###################################
 # LogMeIn
+###################################
 assist.com
 citrixonline.com
 citrixonlinecdn.com
@@ -303,3 +217,111 @@ joingotomeeting.com
 jointraining.com
 joinwebinar.com
 
+###################################
+# Google
+###################################
+216.239.38.119
+216.239.38.120 # Google
+74.125.250.0/24 # Google auido and video
+.c.docs.google.com
+.clients0.google.com
+.clients1.google.com
+.clients2.google.com
+.clients3.google.com
+.clients4.google.com
+.clients5.google.com
+.clients6.google.com
+.clients7.google.com
+.clients8.google.com
+.clients9.google.com
+.docs.google.com
+.drive.google.com
+.googleapis.com
+.googleusercontent.com
+.gstatic.com
+.gvt1.com
+0.client-channel.google.com
+1.client-channel.google.com
+2.client-channel.google.com
+3.client-channel.google.com
+4.client-channel.google.com
+5.client-channel.google.com
+6.client-channel.google.com
+7.client-channel.google.com
+8.client-channel.google.com
+9.client-channel.google.com
+aa.google.com
+accounts.google.com
+addons.gsuite.google.com
+adobe.com
+amazon-adsystem.com
+apis.google.com
+calendar.google.com
+chrome.google.com
+client-channel.google.com
+clients0.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+clients7.google.com
+clients8.google.com
+clients9.google.com
+docs.google.com
+drive.google.com
+dynamite.sandbox.google.com
+gg.google.com
+gmail.com
+google-analytics.com
+google-opensource.com
+google.com
+googleadservices.com
+googleapis.com
+googledrive.com
+googleenterprise.com
+googleonlinesecurity.com
+googlesyndication.com
+googleusercontent.com
+googlevideo.com
+gstatic.com
+gsuite.google.com
+keep.google.com
+krahsc.google.com
+lh0.google.com
+lh1.google.com
+lh2.google.com
+lh3.google.com
+lh4.google.com
+lh5.google.com
+lh6.google.com
+lh7.google.com
+lh8.google.com
+lh9.google.com
+lh0.googleusercontent.com
+lh1.googleusercontent.com
+lh2.googleusercontent.com
+lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
+lh7.googleusercontent.com
+lh8.googleusercontent.com
+lh9.googleusercontent.com
+mail.google.com
+meet.google.com
+ogs.google.com
+play.googleapis.com
+s.ytimg.com
+script.google.com
+sheets.google.com
+slides.google.com
+ssl.google-analytics.com
+ssl.gstatic.com
+stun.l.google.com
+support.google.com
+takeout.google.com
+talk.google.com
+talkgadget.google.com
+video.google.com
