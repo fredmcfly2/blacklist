@@ -15,6 +15,7 @@
 .bs.serving-sys.com # amazon app 5
 .bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
 .control.kochava.com # alexa 2
+.cookcountyclerk.com
 .device-metrics-us-2.amazon.com # alexa 3
 .e13136.g.akamaiedge.net # CNAME for (px.moatads.com)
 .fls-na.amazon.com # alexa
