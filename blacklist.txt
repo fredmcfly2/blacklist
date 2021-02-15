@@ -1,3 +1,4 @@
+205.185.216.19
 360xclusive.com
 ablehed.pro
 agar.io
@@ -73,6 +74,7 @@ googlezip.net
 gutenburg.org
 hack-fb-online.com
 hipwallpaper.com
+historydaily.org
 housepetscomics.com
 hdwallsbox.com
 hdwallpaperim.com
@@ -84,7 +86,6 @@ imdb.com
 imgflip.com
 in4capital.com
 insolys.com
-instagram.com
 iogames.space
 itch.io
 izito.com
@@ -128,7 +129,6 @@ open-open.com
 perfect-privacy.com
 pinterest.com
 piximus.net
-play.google.com
 pmslweb.com
 podomatic.com
 poiu.icu
@@ -156,10 +156,8 @@ setaswall.com
 si.com
 somethingawful.com
 snapchat.com
-spotify.com
 stealthy.co
 steam-chat.com
-steamstatic.com
 str.org
 systemrequirementslab.com
 taboola.com
@@ -199,8 +197,6 @@ wallpapersafari.com
 wallpaperup.com
 wallpapersite.com
 wallup.net
-#wikimedia.org # Use in E2Guardian and block only part of it
-wikipedia.org # Use in E2Guardian and block only part of it
 wikizero.com
 whatsapp.com
 wigflip.com
@@ -226,7 +222,6 @@ ghostzero.tv
 godialy.com
 i1os.com
 idcinema.net
-imgur.com
 invidio.us
 iptvz.co.uk
 independent.co.uk
@@ -482,7 +477,6 @@ zsofiacsendes.com
 ###########################################
 bookbub.com
 bookrix.com
-books.google.com
 librivox.org
 fanfiction.net
 fantasticfiction.com
@@ -520,7 +514,30 @@ content-images.p-cdn.com
 pl.scdn.co
 i.scdn.co
 mosaic.scdn.co
+o.scdn.co
 ###########################################
 # Block Google Play images
 ###########################################
 lh3.googleusercontent.com
+###########################################
+# Crave
+###########################################
+9c9media.ca
+9c9media.com
+crave.ca
+pe-ak-vp02a-9c9media.akamaized.net
+###########################################
+# Streaming Media
+###########################################
+hotdogradio.com
+hbo.com
+hbogo.com
+ocs.fr  # Orange Cinéma Séries
+ocsdomain.com  # Orange Cinéma Séries
+radiotime.com
+radiotime.com.cdn.cloudflare.net
+tunein.com
+tunein.com.cdn.cloudflare.net
+vevo.com
+vimeo.com
+vimeocdn.com
