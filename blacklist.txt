@@ -40,6 +40,7 @@ daretodoubt.org
 desktopclient.net
 destopwalls.net
 deezer.com
+digg.com
 disboard.org
 discord.center
 discord.com
@@ -101,6 +102,7 @@ kym-cdn.com
 langspace.com
 laweekly.com
 last.fm
+libsyn.com
 list25.com
 listland.com
 listennotes.com
