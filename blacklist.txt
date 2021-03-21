@@ -147,6 +147,7 @@ ranker.com
 reparrishcomics.com
 reddit-com.poiu.icu
 reddit.com
+reddit.map.fastly.net
 redd.it
 reddup.co
 reimageplus.com
