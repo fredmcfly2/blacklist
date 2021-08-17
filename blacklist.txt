@@ -89,6 +89,7 @@ imgflip.com
 in4capital.com
 insolys.com
 iogames.space
+istockphoto.com
 itch.io
 izito.com
 irr.org
@@ -537,10 +538,12 @@ pe-ak-vp02a-9c9media.akamaized.net
 hotdogradio.com
 hbo.com
 hbogo.com
+hideout.tv
 ocs.fr  # Orange Cinéma Séries
 ocsdomain.com  # Orange Cinéma Séries
 radiotime.com
 radiotime.com.cdn.cloudflare.net
+thoughtscreen.com
 tunein.com
 tunein.com.cdn.cloudflare.net
 vevo.com
