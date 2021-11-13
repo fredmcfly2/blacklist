@@ -188,6 +188,8 @@ theonion.com
 theoatmeal.com
 thetoptens.com
 tiktok.com
+tiktokcdn.com
+tiktokv.com
 tumblr.com
 tutorial9.net
 twitter.com
