@@ -245,6 +245,10 @@ myplay.video
 newlifetv.info
 nicktube.com
 okclips.net
+omegle.com
+omegle.onl
+omegle.uk.com
+ome.tv
 pixelstalk.net
 playtube.pk
 queerty.com
@@ -365,6 +369,7 @@ dimmedfosterwaggle.info
 aaronshaf.wordpress.com
 accessnow.org
 angelsonfire.org
+aomin.org
 arcapologetics.org
 associationmormonletters.org
 athoughtfulfaith.org
@@ -405,12 +410,14 @@ iimormon.weebly.com
 ignatius.com
 infymus.com
 irr.org
+itlm.org
 letterformywife.com
 ldsanswers.org
 ldslearning.org
 lds-mormon.org
 lds-mormon.com
 ldsfreedomforum.com
+ifeafter.org
 lighthascome.com 
 lighthousecatholicmedia.org 
 luxlux4u.com
@@ -473,6 +480,7 @@ themissionutah.com
 theroot.com
 therooster.com
 thelordsuniversity.wordpress.com
+truthandgrace.com
 truthingrace.com
 utlm.org
 weebly.com
@@ -554,3 +562,4 @@ tunein.com.cdn.cloudflare.net
 vevo.com
 vimeo.com
 vimeocdn.com
+tv.yahoo.com
