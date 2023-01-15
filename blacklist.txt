@@ -47,6 +47,7 @@ discord.com
 discordbee.com
 discourse.org
 discordapp.com
+discordapp.net
 discordbots.org
 discordservers.com
 discordservers.me
@@ -153,6 +154,8 @@ reparrishcomics.com
 reddit-com.poiu.icu
 reddit.com
 reddit.map.fastly.net
+redditmedia.com
+redditstatic.com
 redd.it
 reddup.co
 reimageplus.com
