@@ -539,6 +539,8 @@ pl.scdn.co
 i.scdn.co
 mosaic.scdn.co
 o.scdn.co
+seed-mix-image.spotifycdn.com
+dailymix-images.scdn.co
 ###########################################
 # Block Google Play images
 ###########################################
