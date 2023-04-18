@@ -22,6 +22,7 @@ blackbaud.com
 boost-turbo-protector.bid
 boardpanda.com
 boredpanda.com
+buttercupfestival.com
 bustyfilms.com
 buzzfeed.com
 chasejarvis.com
@@ -134,6 +135,7 @@ nifty.org
 onsizzle.com
 open-open.com
 perfect-privacy.com
+pbfcomics.com
 picsearch.com
 pinterest.com
 piximus.net
@@ -186,14 +188,15 @@ test29708708.io
 test1429864675.io 
 test37496965959.io
 test434748.io
-tokkoro.com
 thedailybeast.com
 theonion.com
 theoatmeal.com
 thetoptens.com
+threewordphrase.com
 tiktok.com
 tiktokcdn.com
 tiktokv.com
+tokkoro.com
 tumblr.com
 tutorial9.net
 twitter.com
