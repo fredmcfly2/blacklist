@@ -292,6 +292,9 @@ viyoutube.com
 45.63.26.42
 45.76.180.95
 108.61.162.114
+45.63.83.252
+167.99.243.196
+164.92.96.41
 987607.biz
 airvpn.com
 allheartnews.com # ExpressVPN
