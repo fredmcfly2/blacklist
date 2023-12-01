@@ -275,7 +275,7 @@ tvhd.wiki
 twitch.tv
 twitch.com
 vaivideo.site
-vimeo.com
+#vimeo.com - Colton
 vine.co
 viyoutube.co
 viveos.net
