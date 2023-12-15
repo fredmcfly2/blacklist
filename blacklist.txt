@@ -277,6 +277,7 @@ twitch.tv
 twitch.com
 vaivideo.site
 #vimeo.com - Colton
+#vimeocdn.com
 vine.co
 viyoutube.co
 viveos.net
@@ -567,7 +568,7 @@ bookrix.com
 librivox.org
 fanfiction.net
 fantasticfiction.com
-goodreads.com
+#goodreads.com
 manybooks.net
 openculture.com
 opengameart.org
@@ -634,6 +635,4 @@ thoughtscreen.com
 tunein.com
 tunein.com.cdn.cloudflare.net
 vevo.com
-vimeo.com
-vimeocdn.com
 tv.yahoo.com
