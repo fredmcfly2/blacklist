@@ -68,6 +68,7 @@ finlayson-fife.com
 flipwallpapers.com
 freebooks.com
 free-audio-editor.com
+freejinger.org
 foxnews.com
 funnyjunk.com
 gamebanana.com
@@ -392,6 +393,7 @@ accessnow.org
 adamsroadministry.com
 agnosticmormon.blogspot.com
 angelsonfire.org
+analyzingmormonism.podbean.com
 aomin.org
 arcapologetics.org
 associationmormonletters.org
@@ -401,7 +403,10 @@ avclub.com
 beggarsbread.org
 beyondmormon.org
 bible.ca
+blogtalkradio.com
+bookofboredom.com
 bycommonconsent.com
+buzzsprout.com
 carm.org
 catholic.com
 catholictruthblog.com
@@ -426,6 +431,7 @@ exmormon.org
 exponentii.org
 exploringmormonism.com
 feministmormonhousewives.org
+friendlyatheistpodcast.com
 fullerconsideration.com
 gaymormon.blogspot.com
 gaymormonguy.blogspot.com
@@ -455,8 +461,11 @@ ldslearning.org
 lds-mormon.org
 lds-mormon.com
 ldsfreedomforum.com
+listennotes.com
 ifeafter.org
 ldolphin.org
+ldswalkwithyou.org
+libsyn.com
 lifeafterministry.com
 lighthascome.com 
 lighthousecatholicmedia.org 
@@ -465,6 +474,8 @@ lyingforthelord.com
 mdpodcast.org
 mitchellcc.edu
 meettheexmormons.org
+metacannon.net
+missedinsunday.com
 missionaryboys.org
 mohodirectory.blogspot.com
 monergism.com
@@ -484,6 +495,7 @@ mormonheretic.org
 mormoninfo.org
 mormoninformant.com
 mormonismi.net
+mormonismlive.org
 mormonmatters.org
 mormonmidrashim.blogspot.com
 mormonleaks.io
@@ -494,12 +506,15 @@ mormontruthpodcast.blogspot.com
 mormonspectrum.org
 mormonstories.com
 mormonstories.org
+mormontalk.org
 mormontruth.blogspot.com
 mormonthink.org
 mormonundies.com
 motabenquirer.blogspot.com
 mrm.org
+mybookofmormonpodcast.com
 namb.net
+nakedmormonismpodcast.com
 newordermormon.net
 newordermormon.org
 nomorestrangers.org
@@ -517,10 +532,12 @@ patheos.com
 pastorunlikely.com
 peacefuldumpling.com
 podbean.com
+podomatic.com
 postmormoncoaching.com
 progressiveexmormon.wordpress.com
 radiofreemormon.org
 raiseyourmind.com
+rationalfaiths.com
 religionunplugged.com
 religionandpolitics.org
 righteousdominion.org
@@ -531,6 +548,7 @@ salamandersociety.com
 scleroderma.org
 scrimba.com
 scripturalmormonism.blogspot.com
+sometimesinshamblespodcast.com
 shafovaloff.com
 shamelesspopery.com
 shunn.net
@@ -538,8 +556,10 @@ sidneyrigdon.com
 skepticmormon.blogspot.com
 staylds.com
 str.org
+stuffyoumissedinsundayschool.blogspot.com
 solomonspaulding.com
 steemit.com
+sunstone.org
 texags.com
 thechristiangod.com
 thecripplegate.com
@@ -554,6 +574,7 @@ thelordsuniversity.wordpress.com
 ttschmidt.com
 truthandgrace.com
 truthingrace.com
+unitarianchristianalliance.org
 utlm.org
 wasmormon.org
 watchmanvlds.blogspot.com
@@ -561,6 +582,7 @@ weebly.com
 wheatandtares.org
 weirdmormonshit.com
 wretched.org
+yearofpolygamy.com
 youngmormonfeminists.org
 ytmommadrama.com
 zedori.com
