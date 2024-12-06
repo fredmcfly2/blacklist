@@ -643,6 +643,9 @@ o.scdn.co
 seed-mix-image.spotifycdn.com
 dailymix-images.scdn.co
 video-akpcw-cdn-spotify-com.akamaized.net
+video-ak-cdn-spotify-com.akamaized.net
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+video-fa.scdn.co
 ###########################################
 # Block Google Play images
 ###########################################
