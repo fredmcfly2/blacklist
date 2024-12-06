@@ -642,6 +642,7 @@ mosaic.scdn.co
 o.scdn.co
 seed-mix-image.spotifycdn.com
 dailymix-images.scdn.co
+video-akpcw-cdn-spotify-com.akamaized.net
 ###########################################
 # Block Google Play images
 ###########################################
