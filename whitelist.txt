@@ -1,114 +1,186 @@
-172.217.5.14 # lga15s49-in-f14.1e100.net
-172.217.9.238 # ga34s11-in-f14.1e100.net
-172.217.9.67 # ord38s09-in-f3.1e100.net
-52.10.50.127
-52.26.7.15 
-52.32.207.20 # Amazon AWS servers
-54.148.66.97
-54.149.196.236
-.adsafeprotected.com # amazon app 6
-.amazon-adsystem.com # amazon app ads
-.anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
-.anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
-.apple.com 
-.bs.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
-.bs.serving-sys.com # amazon app 5
-.bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
-.control.kochava.com # alexa 2
-.cookcountyclerk.com
-.device-metrics-us-2.amazon.com # alexa 3
-.e13136.g.akamaiedge.net # CNAME for (px.moatads.com)
-.fls-na.amazon.com # alexa
-.github.com
-.githubusercontent.com 
-.gitlab.com
-.pixel.adsafeprotected.com # amazon app 4
-.px.moatads.com # amazon app 2
-.secure-gl.imrworldwide.com # amazon app 3
-.sourceforge.net
-.wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
-apple.com
-audible.com
-bankofamerica.com
-bitbucket.com
-bs.serving-sys.com # amazon app 5
-cbs.com
-churchofjesuschrist.org
-claas.com
-clearplay.com
-control.kochava.com
-control.kochava.com # alexa 2
-craigslist.com
-criteo.com
-cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
-cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
-cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
-cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
-device-metrics-us-2.amazon.com # alexa 3
-dilbert.com
-dixie.edu
-doubleclick.net
-dropbox.com
-ebay.com
-ebaystores.com
-edgekey.net
-edpuzzle.com
-family.qustodio.com
-familysearch.org
-financialaid.wpdev.dixie.edu
-fls-na.amazon.com # alexa
-fs.microsoft.com
-gap.com
-ggpht.com
-gigya.com
-github.com
-github.map.fastly.net # CNAME for (raw.githubusercontent.com)
-githubusercontent.com
-gvt1.com
-indexww.com
-ipinfo.io
-kahoot.com
-lds.org
-lifecare-news.com
-lths.org
-microchip.com
-mobilecsp.org
-moogle.lths.org
-mormon.org
-mp.microsoft.com
-nexac.com
-ocsp.digicert.com
-pbs.twimg.com # twitter images
-pearsonrealize.com
-phdcomics.com
-pixel.adsafeprotected.com # amazon app 4
-powerschool.com
-qustodio.com
-s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
-s3.amazonaws.com
-secure-gl.imrworldwide.com # amazon app 3
-sourceforge.net
-stackoverflow.com
-staticiv.com
-tiqcdn.com
-trimble.com
-trimble.tools
-turnitin.com
-usd-vpdn-1.trimble.com
-visualstudio.com
-vpn.claas.com
-wac.phicdn.net
-weather.com
-wfxtriggers.com
-www.dropbox-dns.com # CNAME for (dropbox.com)
-www.dropbox.com
-www.pbs.twimg.com # twitter images
-www.stackoverflow.com
-www.youtube.com
-youtube-nocookie.com
-youtube-ui.l.google.com # CNAME for (youtube.com)
-youtube.com
-ytimg.com
+###################################
+# Valencia
+###################################
+adpass.valenciacollege.edu
+applecache1.valenciacollege.edu
+applecache2.valenciacollege.edu
+apps-coldfusion.valenciacollege.edu
+apps-eeipd-prd.valenciacollege.edu
+apps.valenciacollege.edu
+atlas-awpd-prd.aws.valenciacollege.edu
+atlas-awpd-prd.valenciacollege.edu
+atlas-awtr-pprd.aws.valenciacollege.edu
+atlas-ptlpd-prd.valenciacollege.edu
+atlas.valenciacollege.edu
+autodiscover.mail.valenciacollege.edu
+autodiscover.valenciacollege.edu
+av.valenciacollege.edu
+ban-apex-prod.valenciacollege.edu
+ban-xe01-prod.valenciacollege.edu
+ban-xe02-dev.valenciacollege.edu
+banner.aws.valenciacollege.edu
+bas.valenciacollege.edu
+bgl.valenciacollege.edu
+blog.valenciacollege.edu
+blogs.valenciacollege.edu
+brand.valenciacollege.edu
+c2k.valenciacollege.edu
+calendar.valenciacollege.edu
+campaign.valenciacollege.edu
+canvas-gps.valenciacollege.edu
+cas-test.aws.valenciacollege.edu
+cas.aws.valenciacollege.edu
+cas.valenciacollege.edu
+catalog.valenciacollege.edu
+cdn.valenciacollege.edu
+circlesofinnovation.valenciacollege.edu
+classclimate.valenciacollege.edu
+clconnectdev.aws.valenciacollege.edu
+clconnectprd.aws.valenciacollege.edu
+conferences.valenciacollege.edu
+cop2822.valenciacollege.edu
+cop2822c.valenciacollege.edu
+courseleafldap.valenciacollege.edu
+crl.valenciacollege.edu
+cs.valenciacollege.edu
+currentcatalog.valenciacollege.edu
+degreeworks.aws.valenciacollege.edu
+dev-fs.valenciacollege.edu
+dmt.valenciacollege.edu
+donate.valenciacollege.edu
+eastlrc2.valenciacollege.edu
+ecpt.valenciacollege.edu
+emergency.valenciacollege.edu
+enterpriseenrollment.valenciacollege.edu
+ethos-pprd.aws.valenciacollege.edu
+ethos.aws.valenciacollege.edu
+ev2.valenciacollege.edu
+events.valenciacollege.edu
+ex2013-cas1.valenciacollege.edu
+faculty.valenciacollege.edu
+faq.valenciacollege.edu
+fd.valenciacollege.edu
+filelocker.valenciacollege.edu
+flashvideo.valenciacollege.edu
+forms.valenciacollege.edu
+foundation.valenciacollege.edu
+frontdoor.valenciacollege.edu
+gcp.valenciacollege.edu
+grails.valenciacollege.edu
+grove.valenciacollege.edu
+helpdesk.valenciacollege.edu
+imathas.valenciacollege.edu
+inclusion.valenciacollege.edu
+international.valenciacollege.edu
+istart-dev-admin.valenciacollege.edu
+istart-dev.valenciacollege.edu
+ithelp.valenciacollege.edu
+itunes.valenciacollege.edu
+iwmvcc.valenciacollege.edu
+ldapatlas.aws.valenciacollege.edu
+libguides.valenciacollege.edu
+listserv.valenciacollege.edu
+localhost.valenciacollege.edu
+lyncextws-s1.valenciacollege.edu
+lyncextws.valenciacollege.edu
+manufacturing.valenciacollege.edu
+maps.valenciacollege.edu
+mep.valenciacollege.edu
+mobileapps.valenciacollege.edu
+msoid.valenciacollege.edu
+multimedia.valenciacollege.edu
+mx.valenciacollege.edu
+mx2.valenciacollege.edu
+my.valenciacollege.edu
+myedplan.valenciacollege.edu
+myiss-admin.valenciacollege.edu
+myiss.valenciacollege.edu
+mysite.valenciacollege.edu
+net1.valenciacollege.edu
+net2.valenciacollege.edu
+net3.valenciacollege.edu
+net4.valenciacollege.edu
+net5.valenciacollege.edu
+netlab.valenciacollege.edu
+netmon.valenciacollege.edu
+netview.valenciacollege.edu
+news.valenciacollege.edu
+nextcatalog.valenciacollege.edu
+ngwnameserver.valenciacollege.edu
+ns.valenciacollege.edu
+ns2.valenciacollege.edu
+nursing.valenciacollege.edu
+ocs.valenciacollege.edu
+oit.valenciacollege.edu
+online.valenciacollege.edu
+pardot.valenciacollege.edu
+payments.valenciacollege.edu
+play.valenciacollege.edu
+policycenter.valenciacollege.edu
+portal.valenciacollege.edu
+pprd-canvas-grades.aws.valenciacollege.edu
+pprd-cl1.aws.valenciacollege.edu
+pprd-facts.aws.valenciacollege.edu
+pprd-sas-va.aws.valenciacollege.edu
+pprd-sas.aws.valenciacollege.edu
+president.valenciacollege.edu
+preview.valenciacollege.edu
+print.valenciacollege.edu
+prod-app-cf.aws.valenciacollege.edu
+prod-app.aws.valenciacollege.edu
+prod-canvas-grades.aws.valenciacollege.edu
+prod-canvas-integration.aws.valenciacollege.edu
+prod-cl1.aws.valenciacollege.edu
+prod-content.aws.valenciacollege.edu
+prod-facts.aws.valenciacollege.edu
+prod-gcp.aws.valenciacollege.edu
+prod-sas-va.aws.valenciacollege.edu
+prod-sas.aws.valenciacollege.edu
+prod-www.aws.valenciacollege.edu
+proxy.valenciacollege.edu
+ptl5-cas-pprd.valenciacollege.edu
+ptl5-cas-prod.valenciacollege.edu
+ptl5-prod.valenciacollege.edu
+ptl5pd-prod.valenciacollege.edu
+public-sp.valenciacollege.edu
+rds.valenciacollege.edu
+sasprod-va.valenciacollege.edu
+sasprod-web.valenciacollege.edu
+science.valenciacollege.edu
+search.valenciacollege.edu
+site.valenciacollege.edu
+skype-extws.valenciacollege.edu
+sp.valenciacollege.edu
+ssb-01.valenciacollege.edu
+ssb-03.valenciacollege.edu
+staff.valenciacollege.edu
+support.valenciacollege.edu
+sustainability.valenciacollege.edu
+sustainable.valenciacollege.edu
+tech4grant.valenciacollege.edu
+test.valenciacollege.edu
+testpayments.valenciacollege.edu
+thegrove.valenciacollege.edu
+tic.valenciacollege.edu
+tools.aws.valenciacollege.edu
+uag.valenciacollege.edu
+valenciacollege.edu
+valenciaevents.valenciacollege.edu
+vcaccess01.valenciacollege.edu
+vcaccess02.valenciacollege.edu
+vcaccess03.valenciacollege.edu
+vpmain.valenciacollege.edu
+webconf.valenciacollege.edu
+webmail.valenciacollege.edu
+websflash.valenciacollege.edu
+webtest.valenciacollege.edu
+wec2013pool.valenciacollege.edu
+west.valenciacollege.edu
+wp.valenciacollege.edu
+wps-app-prod.valenciacollege.edu
+wpstest.valenciacollege.edu
+www.valenciacollege.edu
+
 ###################################
 # Microsoft
 ###################################
@@ -218,111 +290,4 @@ joingotomeeting.com
 jointraining.com
 joinwebinar.com
 
-###################################
-# Google
-###################################
-216.239.38.119
-216.239.38.120 # Google
-74.125.250.0/24 # Google auido and video
-.c.docs.google.com
-.clients0.google.com
-.clients1.google.com
-.clients2.google.com
-.clients3.google.com
-.clients4.google.com
-.clients5.google.com
-.clients6.google.com
-.clients7.google.com
-.clients8.google.com
-.clients9.google.com
-.docs.google.com
-.drive.google.com
-.googleapis.com
-.googleusercontent.com
-.gstatic.com
-.gvt1.com
-0.client-channel.google.com
-1.client-channel.google.com
-2.client-channel.google.com
-3.client-channel.google.com
-4.client-channel.google.com
-5.client-channel.google.com
-6.client-channel.google.com
-7.client-channel.google.com
-8.client-channel.google.com
-9.client-channel.google.com
-aa.google.com
-accounts.google.com
-addons.gsuite.google.com
-adobe.com
-amazon-adsystem.com
-apis.google.com
-calendar.google.com
-chrome.google.com
-client-channel.google.com
-clients0.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-clients7.google.com
-clients8.google.com
-clients9.google.com
-docs.google.com
-drive.google.com
-dynamite.sandbox.google.com
-gg.google.com
-gmail.com
-google-analytics.com
-google-opensource.com
-google.com
-googleadservices.com
-googleapis.com
-googledrive.com
-googleenterprise.com
-googleonlinesecurity.com
-googlesyndication.com
-googleusercontent.com
-googlevideo.com
-gstatic.com
-gsuite.google.com
-keep.google.com
-krahsc.google.com
-lh0.google.com
-lh1.google.com
-lh2.google.com
-lh3.google.com
-lh4.google.com
-lh5.google.com
-lh6.google.com
-lh7.google.com
-lh8.google.com
-lh9.google.com
-lh0.googleusercontent.com
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
-lh7.googleusercontent.com
-lh8.googleusercontent.com
-lh9.googleusercontent.com
 mail.google.com
-meet.google.com
-ogs.google.com
-play.googleapis.com
-s.ytimg.com
-script.google.com
-sheets.google.com
-slides.google.com
-ssl.google-analytics.com
-ssl.gstatic.com
-stun.l.google.com
-support.google.com
-takeout.google.com
-talk.google.com
-talkgadget.google.com
-video.google.com
