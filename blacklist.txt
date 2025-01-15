@@ -637,7 +637,7 @@ cont-3.p-cdn.us
 cont-4.p-cdn.us
 cont-5.p-cdn.us
 content-images.p-cdn.com
-w3.org
+dyn-images.p-cdn.com
 ###########################################
 # Block Spotify images
 ###########################################
