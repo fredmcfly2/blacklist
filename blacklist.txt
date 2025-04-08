@@ -647,12 +647,23 @@ pl.scdn.co
 i.scdn.co
 mosaic.scdn.co
 o.scdn.co
+canvaz.scdn.co
+eip-ntt.video-ak.cdn.spotify.com.akahost.net
+image-cdn-ak.spotifycdn.com
+image-scdn.cdn-gslb.spotify.com
 seed-mix-image.spotifycdn.com
 dailymix-images.scdn.co
 video-akpcw-cdn-spotify-com.akamaized.net
 video-ak-cdn-spotify-com.akamaized.net
 video-ak.cdn.spotify.com.splitter-eip.akadns.net
 video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+video4-ak.spotify.com
+video-ak.cdn.spotify.com
+video-akpcw.spotifycdn.com
+video-akpcw.spotifycdn.com.edgesuite.net
+video-akpcw-cdn-spotify-com.akamaized.net
 ###########################################
 # Block Google Play images
 ###########################################
