@@ -653,6 +653,9 @@ image-cdn-ak.spotifycdn.com
 image-scdn.cdn-gslb.spotify.com
 seed-mix-image.spotifycdn.com
 dailymix-images.scdn.co
+newjams-images.scdn.co
+pickasso.spotifycdn.com
+thisis-images.spotifycdn.com
 video-akpcw-cdn-spotify-com.akamaized.net
 video-ak-cdn-spotify-com.akamaized.net
 video-ak.cdn.spotify.com.splitter-eip.akadns.net
