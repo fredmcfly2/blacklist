@@ -291,3 +291,15 @@ jointraining.com
 joinwebinar.com
 
 mail.google.com
+
+# Allows videos on weather.com
+v.w-x.co
+
+###################################
+# Spotify
+###################################
+# (\.|^)scdn\.com$
+# (\.|^)spotify\.com$
+audio-ake.spotify.com.edgesuite.net
+audio-ak-spotify-com.akamaized.net
+open.spotifycdn.com
