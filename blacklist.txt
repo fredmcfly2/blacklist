@@ -676,6 +676,7 @@ o.scdn.co
 canvaz.scdn.co
 eip-ntt.video-ak.cdn.spotify.com.akahost.net
 image-cdn-ak.spotifycdn.com
+image-cdn-fa.spotifycdn.com
 image-scdn.cdn-gslb.spotify.com
 seed-mix-image.spotifycdn.com
 dailymix-images.scdn.co
