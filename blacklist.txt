@@ -3,6 +3,8 @@
 ablehed.pro
 agar.io
 agreensdistra.info
+aisharenet.com
+aitoolhunt.com
 aliexpress.com
 allwallpaper.in
 anoncraft.com
@@ -12,6 +14,7 @@ archive.org
 artstation.com
 astrologymemes.com
 auction.co.kr
+autogpt.net
 awesomescreenshot.com
 awwmemes.com
 baazee.com
@@ -36,6 +39,7 @@ cheezburger.com
 clktrckrsail.com
 cnn.com
 concordance.com
+contentmavericks.com
 cpmstar.com
 cumception.com
 dailystar.co.uk
@@ -60,6 +64,7 @@ discourse.org
 #discordsl.com
 #discord.gg
 drawception.com
+dreamgen.com
 ebay.ph
 ebay.be
 ebay.ca
@@ -91,6 +96,7 @@ flipwallpapers.com
 freebooks.com
 free-audio-editor.com
 freejinger.org
+freepik.com
 foxnews.com
 funnyjunk.com
 gamebanana.com
@@ -107,6 +113,7 @@ gutenburg.org
 hack-fb-online.com
 hipwallpaper.com
 historydaily.org
+hitpaw.com
 housepetscomics.com
 hdwallsbox.com
 hdwallpaperim.com
@@ -124,6 +131,7 @@ itch.io
 izito.com
 irr.org
 jonysource.com
+journeyaiart.com
 justrichest.com
 kids-in-mind.org
 kik.com
@@ -162,11 +170,13 @@ murbawfism.com
 musical.ly
 newcoolthang.com
 nifty.org
+okmyfriend.com
 onlyfans.com
 onsizzle.com
 open-open.com
 perfect-privacy.com
 pbfcomics.com
+photopro-ai.com
 picsearch.com
 pinterest.com
 piximus.net
@@ -224,7 +234,10 @@ test1429864675.io
 test37496965959.io
 test434748.io
 thedailybeast.com
+theaisurf.com
+theknowledgeacademy.com
 them.us
+theporndude.com
 theonion.com
 theoatmeal.com
 theout.foundation
@@ -238,6 +251,7 @@ tumblr.com
 tutorial9.net
 twitter.com
 txtnews.online
+uptodown.com
 valerietarico.com
 vice.com
 vgamezone.com
