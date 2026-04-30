@@ -746,3 +746,4 @@ tv.yahoo.com
 # AI
 ###########################################
 context.ai
+verkor.io
