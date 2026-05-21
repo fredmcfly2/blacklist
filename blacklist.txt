@@ -40,6 +40,7 @@ cesletter.org
 cheezburger.com
 clktrckrsail.com
 cloudservices.roku.com
+mt.ssai.peacocktv.com
 cnn.com
 concordance.com
 contentmavericks.com
@@ -745,6 +746,20 @@ tunein.com
 tunein.com.cdn.cloudflare.net
 vevo.com
 tv.yahoo.com
+###########################################
+# Peacock
+###########################################
+vac.peacocktv.com
+sas.peacocktv.com
+video-ads-module.ad-tech.nbcuni.com
+###########################################
+# Paramount+
+###########################################
+splice-media.paramountplus.com
+splice.paramountplus.com
+cbsinteractive.data.adobedc.net
+conduit.redfast.com
+sparrow.paramountplus.com
 ###########################################
 # AI
 ###########################################
