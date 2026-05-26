@@ -39,7 +39,6 @@ chasejarvis.com
 cesletter.org
 cheezburger.com
 clktrckrsail.com
-cloudservices.roku.com
 mt.ssai.peacocktv.com
 cnn.com
 concordance.com
@@ -760,6 +759,27 @@ splice.paramountplus.com
 cbsinteractive.data.adobedc.net
 conduit.redfast.com
 sparrow.paramountplus.com
+###########################################
+# Roku
+###########################################
+cloudservices.roku.com
+ads.roku.com
+amarillo.logs.roku.com
+amoeba-plus.web.roku.com
+customer-feedbacks.web.roku.com
+digdug-g2.logs.roku.com
+digdug.logs.roku.com
+display.ravm.tv
+i.ads.roku.com
+p.ads.roku.com
+raps-perf.ravm.tv
+raps.ravm.tv
+ravm.tv
+rxr.ravm.tv
+samples.voice.cti.roku.com
+traces.sr.roku.com
+track.sr.roku.com
+wwwimg.roku.com
 ###########################################
 # AI
 ###########################################
