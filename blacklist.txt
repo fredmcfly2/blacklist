@@ -765,16 +765,20 @@ sparrow.paramountplus.com
 ads.roku.com
 amarillo.logs.roku.com
 amoeba-plus.web.roku.com
+api2.sr.roku.com # Block searching
+atom.peacocktv.com
 austin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
 cloudservices.roku.com
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
+d9.flashtalking.com
 digdug-g2.logs.roku.com
 digdug.logs.roku.com
 display.ravm.tv
 esp.logs.roku.com
+flashtalking.com
 giga.logs.roku.com
 gilbert.logs.roku.com
 griffin.logs.roku.com
@@ -787,10 +791,13 @@ liberty.logs.roku.com
 littlefield.logs.roku.com
 logs.roku.com
 longview.logs.roku.com
+mediaservices.cdn-apple.com
 midland.logs.roku.com
 mobile.logs.roku.com
+mytv.clients.peacocktv.com
 p.ads.roku.com
 paolo.logs.roku.com
+play.ovp.peacocktv.com
 raps-perf.ravm.tv
 raps.ravm.tv
 ravm.tv
