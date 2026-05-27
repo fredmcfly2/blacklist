@@ -797,7 +797,6 @@ mobile.logs.roku.com
 mytv.clients.peacocktv.com
 p.ads.roku.com
 paolo.logs.roku.com
-play.ovp.peacocktv.com
 raps-perf.ravm.tv
 raps.ravm.tv
 ravm.tv
