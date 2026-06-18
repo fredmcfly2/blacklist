@@ -130,6 +130,7 @@ magicedit.app
 medium.com
 media.io
 midlibrary.io
+midjourney.com
 miramuseai.net
 moah-ai.com
 moemate.io
