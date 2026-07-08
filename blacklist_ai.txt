@@ -8,6 +8,9 @@ abposters.com
 agnai.chat
 agnai.guide
 a2e.ai
+ai-chat.bsg.brave.com
+ai-sdk.dev
+ai.meta.com
 aibase.com
 aibooru.online
 aichat.com
@@ -99,7 +102,10 @@ gettywallpapers.com
 gohiai.com
 gptgirlfriend.online
 grok.com
+grokipedia.com
+groq.com
 groupify.ai
+heyotto.app
 hix.ai
 hotpot.ai
 huggingface.co
@@ -118,6 +124,7 @@ julius.ai
 jungleai.com
 kawaiiai.com
 kemono.cr
+kidsai.app
 kisspixel.ai
 klingai.com
 kodora.ai
@@ -148,6 +155,8 @@ nightcafe.studio
 novelai.net
 novita.ai
 now.gg
+oaistatic.com
+oaiusercontent.com
 openai.com
 openart.ai
 opentools.ai
