@@ -689,6 +689,7 @@ mediaserver-cont-iad1-1-v4v6.pandora.com
 mediaserver-cont-sv5-1-v4v6.pandora.com
 mediaserver-cont-sv5-2-v4v6.pandora.com
 mediaserver-cont-sv5-3-v4v6.pandora.com
+mediaserver-cont-sv7-1-v4v6.pandora.com
 mediaserver-cont-sv7-2-v4v6.pandora.com
 mediaserver-cont-usc-mp1-1-v4v6.pandora.com
 mediaserver-cont-usc-mp1-2-v4v6.pandora.com
